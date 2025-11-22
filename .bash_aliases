@@ -1,0 +1,5 @@
+alias venv='source venv/bin/activate'
+alias gits='git status'
+alias gita='git add'
+alias gitc='git commit -m'
+#alias vim='nvim'
